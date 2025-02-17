@@ -60,15 +60,15 @@ h2, h3 {
 /* Label field (rata kiri – PRK) */
 label {
   display: block;
-  margin: 50px 0 50px;
+  margin: 10px 0 50px;
   font-weight: bold;
 }
 
 /* Input field – posisinya di tengah (PTL) dengan garis pinggir */
 input[type="text"],
 input[type="password"] {
-  width: 60%;
-  padding: 10px;
+  width: 80%;
+  padding: 8px;
   border: 2px solid #ccc;
   border-radius: 8px;
   font-size: 16px;
