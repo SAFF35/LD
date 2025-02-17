@@ -24,7 +24,7 @@ body {
 
 /* Kontainer Login (WL) */
 .login-container {
-  width: 95%;
+  width: 85%;
   background: linear-gradient(45deg, #ffeb3b, #ff9800, #e91e63, #9c27b0);
   background-size: 400% 400%;
   animation: gradientLogin 10s ease infinite;
@@ -67,7 +67,7 @@ label {
 /* Input field – posisinya di tengah (PTL) dengan garis pinggir */
 input[type="text"],
 input[type="password"] {
-  width: 90%;
+  width: 95%;
   padding: 8px;
   border: 2px solid #ccc;
   border-radius: 8px;
